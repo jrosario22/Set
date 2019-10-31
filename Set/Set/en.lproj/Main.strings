@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Add +3"; ObjectID = "WZ0-er-YDf"; */
+"WZ0-er-YDf.normalTitle" = "Add +3";
+
+/* Class = "UIButton"; normalTitle = "Hint"; ObjectID = "hH4-5o-B6b"; */
+"hH4-5o-B6b.normalTitle" = "Hint";
+
+/* Class = "UIButton"; normalTitle = "New Game"; ObjectID = "mbc-1V-2VX"; */
+"mbc-1V-2VX.normalTitle" = "New Game";
+
+/* Class = "UILabel"; text = "Score: 0"; ObjectID = "nAB-E1-Pxj"; */
+"nAB-E1-Pxj.text" = "Score: 0";
